@@ -9,7 +9,7 @@ This repository contains my website with all my web-related projects — includi
 I'll try to update it as much as possible :)
 
 ### Link
-Visit it here (Static site): https://zurozira.github.io/CongVuWebProjects/
+Visit it here (Static site): https://zurozira.github.io/CongVuWebProjects/ <br>
 Currently in the work (ASP.NET Framework): https://vucong.azurewebsites.net/index.html
 
 ### Contact
