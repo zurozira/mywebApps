@@ -154,11 +154,8 @@ p.docTxt {
     border: 1px solid #cfbca6;
 }
 
-h5, h6 {
-    color: coral;
-}
-
 .card {
+    color: #a49482;
     background: #181a1b;
     border-collapse: collapse;
     border-radius: 14pt;
@@ -168,4 +165,8 @@ h5, h6 {
 
 .card:hover {
     border: 1px solid #cfbca6;
+}
+
+.card-title {
+    color: coral;
 }
