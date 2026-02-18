@@ -1,0 +1,171 @@
+
+/* ================================
+   BASE STYLES
+   ================================ */
+
+body {
+    font-size: 14px;
+    color: #a49482;
+    background-color: #181a1b;
+    -moz-user-select: none;
+}
+
+/* ================================
+   LINKS
+   ================================ */
+
+a:link, a:visited, a:active, a:hover {
+    text-decoration-line: none;
+}
+
+a:link, a:active, a:visited {
+    color: #a49482;
+}
+
+a:hover {
+    color: coral;
+}
+
+/* ================================
+   LISTS
+   ================================ */
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 10pt;
+}
+
+/* ================================
+   BUTTONS & INTERACTIVE ELEMENTS
+   ================================ */
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    height: 18px;
+    font-size: 11px;
+    color: #a49482;
+    background-color: #4a4540;
+    border-radius: 4px;
+    transition: all 0.5s ease;
+}
+
+.btn:hover {
+    color: white;
+    background-color: coral;
+    box-shadow: 0 0 40px coral;
+}
+
+/* ================================
+   FORM INPUTS
+   ================================ */
+
+input {
+    color: #a49482;
+    background-color: #1d2021;
+    border: none;
+    border-radius: 4px;
+    transition-duration: 0.7s;
+}
+
+input:hover {
+    color: white;
+    background-color: coral;
+    box-shadow: 0 0 80px coral;
+}
+
+input:focus {
+    outline: none;
+    border: 1pt solid coral;
+}
+
+/* ================================
+   NAVIGATION MENU
+   ================================ */
+
+#button {
+    width: 12em;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    padding: 0 0 1em 0;
+    font-size: 10pt;
+    background-color: #1d2021;
+    color: #ffffff;
+}
+
+#button ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: none;
+}
+
+#button li {
+    margin: 0;
+    border-bottom: 5px solid #181a1b;
+}
+
+#button li a {
+    display: block;
+    width: 100%;
+    padding: 5px 5px 5px 0.5em;
+    color: #a49482;
+    background-color: #333333;
+    border-left: 10px solid #181a1b;
+    border-right: 10px solid #888888;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+#button li a:hover {
+    color: white;
+    background-color: coral;
+    border-left: 10px solid #400e00;
+    border-right: 10px solid #f44707;
+    box-shadow: 40px 0 0 coral;
+    transform: scale(1.2, 1.2);
+}
+
+/* ================================
+   UTILITY CLASSES
+   ================================ */
+
+
+p.docTxt {
+    font-size: 14px;
+}
+
+.outerContainer {
+    padding-top: 60pt;
+}
+
+.projectCon {
+    transition-duration: 0.5s;
+    border-collapse: collapse;
+    border: 1px solid #4e453e;
+    border-radius: 14pt;
+    margin-bottom: 5pt;
+}
+
+.projectCon:hover {
+    border: 1px solid #cfbca6;
+}
+
+h5, h6 {
+    color: coral;
+}
+
+.card {
+    background: #181a1b;
+    border-collapse: collapse;
+    border-radius: 14pt;
+    border: 1px solid #4e453e;
+    transition-duration: 0.5s;
+}
+
+.card:hover {
+    border: 1px solid #cfbca6;
+}
