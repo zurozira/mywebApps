@@ -1,16 +1,32 @@
-My Web Projects
----------
+## my Projects
 
-### About me
-I am currently a student at Saskatchewan Polytechnic in Regina, where I'm pursuing my passion for technology and software development. Before enrolling in this program, I worked in various fields and explored different career paths. However, throughout those experiences, one thing remained constant: my deep fascination with computers and how they work.
+Personal portfolio showcasing my programming development journey as a Saskatchewan Polytechnic student.
 
-### Project Information
-This repository contains my website with all my web-related projects — including school assignments and personal work I do in my free time. </br>
-I'll try to update it as much as possible :)
+### About Me
+I'm currently studying at **Saskatchewan Polytechnic** in Regina, pursuing my passion for software development. <br/> Before diving into tech full-time, I explored various careers—but my love for computers and coding always brought me back.
 
-### Link
-Visit it here (Static site): https://zurozira.github.io/CongVuWebProjects/ <br>
-Currently in the work (ASP.NET Framework): https://vucong.azurewebsites.net/
+### Projects Showcase
+This repo hosts my static portfolio site featuring hands-on web development work:
+
+- **Frontend**: HTML5, CSS3 (Bootstrap), JavaScript, responsive design
+- **Backend**: PHP, ASP.NET Framework (C#), (coming soon: ASP.NET CORE)
+- **Database**: SQL, MySQL, SQLite, (Coming soon: MongoDB & PostgresSQL)
+- **DevOps**: Azure deployment, GitHub Pages, Docker containers
+- **Tools**: Visual Studio, Jetbrains products, Git version control
+
+**Full-stack projects** built end-to-end—from design to cloud deployment
+
+### Live Demos
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio** | Static GitHub Pages site | [![Live Demo](https://img.shields.io/badge/Live-Static%20Site-brightgreen)](https://zurozira.github.io/CongVuWebProjects/) |
+| **ASP.NET App** | Dynamic web app on Azure | [![Live Demo](https://img.shields.io/badge/Live-Azure%20App-blue)](https://vucong.azurewebsites.net/) |
+
 
 ### Contact
-vubuic@gmail.com
+**Vu Cong Bui**  
+✉️ [vubuic@gmail.com](mailto:vubuic@gmail.com)  
+🌐 [Portfolio](https://zurozira.github.io/CongVuWebProjects/)  
+📂 [Other Projects](https://github.com/zurozira)
+
+---
