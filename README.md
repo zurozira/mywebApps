@@ -26,7 +26,7 @@ This repo hosts my static portfolio site featuring hands-on web development work
 ### Contact
 **Vu Cong Bui**  
 ✉️ [vubuic@gmail.com](mailto:vubuic@gmail.com)  
-🌐 [Portfolio](https://zurozira.github.io/CongVuWebProjects/)  
+🌐 [Portfolio](https://zurozira.github.io/mywebApps/)  
 📂 [Other Projects](https://github.com/zurozira)
 
 ---
