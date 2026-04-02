@@ -17,10 +17,10 @@ This repo hosts my static portfolio site featuring hands-on web development work
 **Full-stack projects** built end-to-end—from design to cloud deployment
 
 ### Live Demos
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio** | Static GitHub Pages site | [![Live Demo](https://img.shields.io/badge/Live-Static%20Site-brightgreen)](https://zurozira.github.io/CongVuWebProjects/) |
-| **ASP.NET App** | Dynamic web app on Azure | [![Live Demo](https://img.shields.io/badge/Live-Azure%20App-blue)](https://vucong.azurewebsites.net/) |
+| Project | Description | Link                                                                                                               |
+|---------|-------------|--------------------------------------------------------------------------------------------------------------------|
+| **Portfolio** | Static GitHub Pages site | [![Live Demo](https://img.shields.io/badge/Live-Static%20Site-brightgreen)](https://zurozira.github.io/mywebApps/) |
+| **ASP.NET App** | Dynamic web app on Azure | [![Live Demo](https://img.shields.io/badge/Live-Azure%20App-blue)](https://vucong.azurewebsites.net/)              |
 
 
 ### Contact
