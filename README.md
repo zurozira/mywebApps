@@ -10,7 +10,7 @@ This repo hosts my static portfolio site featuring hands-on web development work
 
 - **Frontend**: HTML5, CSS3 (Bootstrap), JavaScript, responsive design
 - **Backend**: PHP, ASP.NET Framework (C#), (coming soon: ASP.NET CORE)
-- **Database**: SQL, MySQL, SQLite, (Coming soon: MongoDB & PostgresSQL)
+- **Database**: MSSQL, SQL, MySQL, SQLite, MongoDB,...
 - **DevOps**: Azure deployment, GitHub Pages, Docker containers
 - **Tools**: Visual Studio, Jetbrains products, Git version control
 
